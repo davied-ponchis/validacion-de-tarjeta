@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(9, 6, 29);
+}
+
+.resultado {
+    background-color: rgb(129, 128, 133);
+    color: white;
+    font-weight: 700;
+    padding: 10px 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    display: none;
+}
+
+.titulo {
+    color: white;
+    text-align: center;
+}
+
+.formulario {
+    background-color: rgb(0, 0, 43);
+    max-width: 500px;
+    min-width: 200px;
+    margin: 0 auto;
+    color: white;
+    padding: 15px;
+}
+
+.boton-validar {
+    margin: 10px auto;
+    background-color: green;
+    color: white;
+    font-weight: 700;
+    max-width: 300px;
+    min-width: 50px;
+    width: 150px;
+    max-height: 35px;
+    min-height: 12px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+}
